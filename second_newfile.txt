@@ -1,0 +1,2 @@
+created a second file on GitHub, which I intend to pull to my local machine.
+This was doe so the whole concept of puuling and pushing will be understood.
